@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @lahham392
-- 👀 I’m interested in Cloud, Datacenter, Networking, and Information Security
+- 👀 I’m interested in Cloud, and Building Cloud Native Applications
 - 🌱 I’m currently learning AWS Developer Associate 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me yousefallahham@gmail.com
 
 <!---
